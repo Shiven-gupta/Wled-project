@@ -82,5 +82,8 @@ Under GPIO, I entered GPIO 27, as that’s the pin connected to the data line of
 Access the web interface via that IP in your browser.
 
 Control the LED strip and enjoy the effects!
+
+You can also download Wled App and control using your phone.
 ![wled ](https://github.com/user-attachments/assets/d1ea62c0-7b39-4e1d-a449-c5131bf37a23)
 
+![Screenshot 2025-05-11 002824](https://github.com/user-attachments/assets/9924b1a6-3ded-48a2-8475-536cd4d3d13a)
