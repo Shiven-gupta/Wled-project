@@ -27,8 +27,7 @@ This project demonstrates how to control a **WS2811 addressable RGB LED strip** 
 * Arduino sketch (.ino) for ESP32
 * Basic web UI for controlling effects
 * Example effects and customizable animation templates
-* Circuit diagram and connection guide (coming soon)
-
+* Circuit diagram and connection guide 
 ---
 
 Contributions are welcome! Feel free to fork, modify, and submit a pull request.
