@@ -17,16 +17,14 @@ This project demonstrates how to control a **WS2811 addressable RGB LED strip** 
 
 ## Hardware Required
 
-* ESP32 Dev Board (e.g., NodeMCU-32S or ESP32-WROOM)
-* WS2811 LED strip (5V or 12V depending on your model)
-* Level shifter (optional for 5V LEDs)
+* ESP32 Dev Board (e.g., NodeMCU-32S or ESP32-WROOM) https://www.hnhcart.com/products/esp32?_pos=3&_sid=7510b6217&_ss=r
+* WS2811 LED strip (5V or 12V depending on your model) https://www.hnhcart.com/products/ws2811-60-leds-m-rgb-addressable-led-pixel-strip-light-12v-dc-programmable-non-waterproof?_pos=2&_sid=7cbe176eb&_ss=r
+* Level shifter (optional for 5V LEDs) https://www.hnhcart.com/products/4-channel-bi-directional-logic-level-converter?_pos=2&_sid=d8f4d562f&_ss=r
 * Power supply (match LED voltage and total current draw)
 
 ## Included
 
-* Arduino sketch (.ino) for ESP32
 * Basic web UI for controlling effects
-* Example effects and customizable animation templates
 * Circuit diagram and connection guide 
 ---
 
