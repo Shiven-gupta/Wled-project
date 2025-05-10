@@ -13,8 +13,7 @@ This project demonstrates how to control a **WS2811 addressable RGB LED strip** 
   * MQTT / Home Assistant (optional)
   * Button input (optional)
 * Adjustable brightness and speed
-* Non-blocking LED updates using [FastLED](https://github.com/FastLED/FastLED) or [NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) library
-
+* 
 ## Hardware Required
 
 * ESP32 Dev Board (e.g., NodeMCU-32S or ESP32-WROOM) https://www.hnhcart.com/products/esp32?_pos=3&_sid=7510b6217&_ss=r
