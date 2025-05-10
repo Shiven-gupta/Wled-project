@@ -56,11 +56,12 @@ WS2811 GND → ESP32 GND
 WS2811 VCC → External 5V/12V supply
 
 ESP32 GND → External power supply GND (common ground is essential)
+![circuit_image](https://github.com/user-attachments/assets/43cb977e-3c3f-4417-94c0-46a01654402f)
+
 
 3. Open any web browser and go to:
 👉 https://install.wled.me/
 Wait for the installation process to complete.
-![circuit_image](https://github.com/user-attachments/assets/43cb977e-3c3f-4417-94c0-46a01654402f)
 
 
 5. Once installation is complete, the setup page will prompt you to enter your Wi-Fi credentials.
